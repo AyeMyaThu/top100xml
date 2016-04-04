@@ -1,7 +1,7 @@
 <CATALOG>
 <TITLE>TEST</TITLE>
 <ITEM>
-<CD>
+<CD rank = "1">
 <TITLE>Empire Burlesque</TITLE>
 <ARTIST>Bob Dylan</ARTIST>
 <COUNTRY>USA</COUNTRY>
@@ -9,7 +9,7 @@
 <PRICE>10.90</PRICE>
 <YEAR>1985</YEAR>
 </CD>
-<CD>
+<CD rank = "2">
 <TITLE>Hide your heart</TITLE>
 <ARTIST>Bonnie Tylor</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -18,7 +18,7 @@
 <PRICE>9.90</PRICE>
 <YEAR>1988</YEAR>
 </CD>
-<CD>
+<CD rank = "3">
 <TITLE>Greatest Hits</TITLE>
 <ARTIST>Dolly Parton</ARTIST>
 <COUNTRY>USA</COUNTRY>
@@ -26,7 +26,7 @@
 <PRICE>9.90</PRICE>
 <YEAR>1982</YEAR>
 </CD>
-<CD>
+<CD rank = "4">
 <TITLE>Still got the blues</TITLE>
 <ARTIST>Gary More</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -34,7 +34,7 @@
 <PRICE>10.20</PRICE>
 <YEAR>1990</YEAR>
 </CD>
-<CD>
+<CD rank = "5">
 <TITLE>Eros</TITLE>
 <ARTIST>Eros Ramazzotti</ARTIST>
 <COUNTRY>EU</COUNTRY>
@@ -42,7 +42,7 @@
 <PRICE>9.90</PRICE>
 <YEAR>1997</YEAR>
 </CD>
-<CD>
+<CD rank = "6">
 <TITLE>One night only</TITLE>
 <ARTIST>Bee Gees</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -50,7 +50,7 @@
 <PRICE>10.90</PRICE>
 <YEAR>1998</YEAR>
 </CD>
-<CD>
+<CD rank = "7">
 <TITLE>Sylvias Mother</TITLE>
 <ARTIST>Dr.Hook</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -58,7 +58,7 @@
 <PRICE>8.10</PRICE>
 <YEAR>1973</YEAR>
 </CD>
-<CD>
+<CD rank = "8">
 <TITLE>Maggie May</TITLE>
 <ARTIST>Rod Stewart</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -66,7 +66,7 @@
 <PRICE>8.50</PRICE>
 <YEAR>1990</YEAR>
 </CD>
-<CD>
+<CD rank = "9">
 <TITLE>Romanza</TITLE>
 <ARTIST>Andrea Bocelli</ARTIST>
 <COUNTRY>EU</COUNTRY>
@@ -74,7 +74,7 @@
 <PRICE>10.80</PRICE>
 <YEAR>1996</YEAR>
 </CD>
-<CD>
+<CD rank = "10">
 <TITLE>When a man loves a woman</TITLE>
 <ARTIST>Percy Sledge</ARTIST>
 <COUNTRY>USA</COUNTRY>
@@ -82,7 +82,7 @@
 <PRICE>8.70</PRICE>
 <YEAR>1987</YEAR>
 </CD>
-<CD>
+<CD rank = "11">
 <TITLE>Black angel</TITLE>
 <ARTIST>Savage Rose</ARTIST>
 <COUNTRY>EU</COUNTRY>
@@ -90,7 +90,7 @@
 <PRICE>10.90</PRICE>
 <YEAR>1995</YEAR>
 </CD>
-<CD>
+<CD rank = "12">
 <TITLE>1999 Grammy Nominees</TITLE>
 <ARTIST>Many</ARTIST>
 <COUNTRY>USA</COUNTRY>
@@ -98,7 +98,7 @@
 <PRICE>10.20</PRICE>
 <YEAR>1999</YEAR>
 </CD>
-<CD>
+<CD rank = "13">
 <TITLE>For the good times</TITLE>
 <ARTIST>Kenny Rogers</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -106,7 +106,7 @@
 <PRICE>8.70</PRICE>
 <YEAR>1995</YEAR>
 </CD>
-<CD>
+<CD rank = "14">
 <TITLE>Big Willie style</TITLE>
 <ARTIST>Will Smith</ARTIST>
 <COUNTRY>USA</COUNTRY>
@@ -114,7 +114,7 @@
 <PRICE>9.90</PRICE>
 <YEAR>1997</YEAR>
 </CD>
-<CD>
+<CD rank = "15">
 <TITLE>Tupelo Honey</TITLE>
 <ARTIST>Van Morrison</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -122,7 +122,7 @@
 <PRICE>8.20</PRICE>
 <YEAR>1971</YEAR>
 </CD>
-<CD>
+<CD rank = "16">
 <TITLE>Soulsville</TITLE>
 <ARTIST>Jorn Hoel</ARTIST>
 <COUNTRY>Norway</COUNTRY>
@@ -130,7 +130,7 @@
 <PRICE>7.90</PRICE>
 <YEAR>1996</YEAR>
 </CD>
-<CD>
+<CD rank = "17">
 <TITLE>The very best of</TITLE>
 <ARTIST>Cat Stevens</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -138,7 +138,7 @@
 <PRICE>8.90</PRICE>
 <YEAR>1990</YEAR>
 </CD>
-<CD>
+<CD rank = "18">
 <TITLE>Stop</TITLE>
 <ARTIST>Sam Brown</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -146,7 +146,7 @@
 <PRICE>8.90</PRICE>
 <YEAR>1988</YEAR>
 </CD>
-<CD>
+<CD = "19">
 <TITLE>Bridge of Spies</TITLE>
 <ARTIST>T`Pau</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -154,7 +154,7 @@
 <PRICE>7.90</PRICE>
 <YEAR>1987</YEAR>
 </CD>
-<CD>
+<CD rank = "20">
 <TITLE>Private Dancer</TITLE>
 <ARTIST>Tina Turner</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -162,7 +162,7 @@
 <PRICE>8.90</PRICE>
 <YEAR>1983</YEAR>
 </CD>
-<CD>
+<CD rank = "21">
 <TITLE>Midt om natten</TITLE>
 <ARTIST>Kim Larsen</ARTIST>
 <COUNTRY>EU</COUNTRY>
@@ -170,7 +170,7 @@
 <PRICE>7.80</PRICE>
 <YEAR>1983</YEAR>
 </CD>
-<CD>
+<CD rank = "22">
 <TITLE>Pavarotti Gala Concert</TITLE>
 <ARTIST>Luciano Pavarotti</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -178,7 +178,7 @@
 <PRICE>9.90</PRICE>
 <YEAR>1991</YEAR>
 </CD>
-<CD>
+<CD rank = "23">
 <TITLE>The dock of the bay</TITLE>
 <ARTIST>Otis Redding</ARTIST>
 <COUNTRY>USA</COUNTRY>
@@ -186,7 +186,7 @@
 <PRICE>7.90</PRICE>
 <YEAR>1987</YEAR>
 </CD>
-<CD>
+<CD rank = "24">
 <TITLE>Picture book</TITLE>
 <ARTIST>Simply Red</ARTIST>
 <COUNTRY>EU</COUNTRY>
@@ -194,7 +194,7 @@
 <PRICE>7.20</PRICE>
 <YEAR>1985</YEAR>
 </CD>
-<CD>
+<CD rank = "25">
 <TITLE>Red</TITLE>
 <ARTIST>The Communards</ARTIST>
 <COUNTRY>UK</COUNTRY>
@@ -202,7 +202,7 @@
 <PRICE>7.80</PRICE>
 <YEAR>1987</YEAR>
 </CD>
-<CD>
+<CD rank = "26">
 <TITLE>Unchain my heart</TITLE>
 <ARTIST>Joe Cocker</ARTIST>
 <COUNTRY>USA</COUNTRY>
