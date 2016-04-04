@@ -1,4 +1,6 @@
 <CATALOG>
+<TITLE>TEST</TITLE>
+<ITEM>
 <CD>
 <TITLE>Empire Burlesque</TITLE>
 <ARTIST>Bob Dylan</ARTIST>
@@ -208,4 +210,5 @@
 <PRICE>8.20</PRICE>
 <YEAR>1987</YEAR>
 </CD>
+</ITEM>
 </CATALOG>
