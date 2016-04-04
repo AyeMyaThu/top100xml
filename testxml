@@ -3,7 +3,9 @@
 <ITEM>
 <CD rank = "1">
 <ITEM>
+<TEST>
 <TITLE>Empire Burlesque</TITLE>
+</TEST>
 <ARTIST>Bob Dylan</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>Columbia</COMPANY>
@@ -13,7 +15,9 @@
 </CD>
 <CD rank = "2">
 <ITEM>
+<TEST>
 <TITLE>Hide your heart</TITLE>
+</TEST>
 <ARTIST>Bonnie Tylor</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>CBS Records</COMPANY>
@@ -24,7 +28,9 @@
 </CD>
 <CD rank = "3">
 <ITEM>
+<TEST>
 <TITLE>Greatest Hits</TITLE>
+</TEST>
 <ARTIST>Dolly Parton</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>RCA</COMPANY>
@@ -34,7 +40,9 @@
 </CD>
 <CD rank = "4">
 <ITEM>
+<TEST>
 <TITLE>Still got the blues</TITLE>
+</TEST>
 <ARTIST>Gary More</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Virgin redords</COMPANY>
@@ -44,7 +52,9 @@
 </CD>
 <CD rank = "5">
 <ITEM>
+<TEST>
 <TITLE>Eros</TITLE>
+</TEST>
 <ARTIST>Eros Ramazzotti</ARTIST>
 <COUNTRY>EU</COUNTRY>
 <COMPANY>BMG</COMPANY>
@@ -54,7 +64,9 @@
 </CD>
 <CD rank = "6">
 <ITEM>
+<TEST>
 <TITLE>One night only</TITLE>
+</TEST>
 <ARTIST>Bee Gees</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Polydor</COMPANY>
@@ -64,7 +76,9 @@
 </CD>
 <CD rank = "7">
 <ITEM>
+<TEST>
 <TITLE>Sylvias Mother</TITLE>
+</TEST>
 <ARTIST>Dr.Hook</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>CBS</COMPANY>
@@ -74,7 +88,9 @@
 </CD>
 <CD rank = "8">
 <ITEM>
+<TEST>
 <TITLE>Maggie May</TITLE>
+</TEST>
 <ARTIST>Rod Stewart</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Pickwick</COMPANY>
@@ -84,7 +100,9 @@
 </CD>
 <CD rank = "9">
 <ITEM>
+<TEST>
 <TITLE>Romanza</TITLE>
+</TEST>
 <ARTIST>Andrea Bocelli</ARTIST>
 <COUNTRY>EU</COUNTRY>
 <COMPANY>Polydor</COMPANY>
@@ -94,7 +112,9 @@
 </CD>
 <CD rank = "10">
 <ITEM>
+<TEST>
 <TITLE>When a man loves a woman</TITLE>
+</TEST>
 <ARTIST>Percy Sledge</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>Atlantic</COMPANY>
@@ -104,7 +124,9 @@
 </CD>
 <CD rank = "11">
 <ITEM>
+<TEST>
 <TITLE>Black angel</TITLE>
+</TEST>
 <ARTIST>Savage Rose</ARTIST>
 <COUNTRY>EU</COUNTRY>
 <COMPANY>Mega</COMPANY>
@@ -114,7 +136,9 @@
 </CD>
 <CD rank = "12">
 <ITEM>
+<TEST>
 <TITLE>1999 Grammy Nominees</TITLE>
+</TEST>
 <ARTIST>Many</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>Grammy</COMPANY>
@@ -124,7 +148,9 @@
 </CD>
 <CD rank = "13">
 <ITEM>
+<TEST>
 <TITLE>For the good times</TITLE>
+</TEST>
 <ARTIST>Kenny Rogers</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Mucik Master</COMPANY>
@@ -134,7 +160,9 @@
 </CD>
 <CD rank = "14">
 <ITEM>
+<TEST>
 <TITLE>Big Willie style</TITLE>
+</TEST>
 <ARTIST>Will Smith</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>Columbia</COMPANY>
@@ -144,7 +172,9 @@
 </CD>
 <CD rank = "15">
 <ITEM>
+<TEST>
 <TITLE>Tupelo Honey</TITLE>
+</TEST>
 <ARTIST>Van Morrison</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Polydor</COMPANY>
@@ -154,7 +184,9 @@
 </CD>
 <CD rank = "16">
 <ITEM>
+<TEST>
 <TITLE>Soulsville</TITLE>
+</TEST>
 <ARTIST>Jorn Hoel</ARTIST>
 <COUNTRY>Norway</COUNTRY>
 <COMPANY>WEA</COMPANY>
@@ -164,7 +196,9 @@
 </CD>
 <CD rank = "17">
 <ITEM>
+<TEST>
 <TITLE>The very best of</TITLE>
+</TEST>
 <ARTIST>Cat Stevens</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Island</COMPANY>
@@ -174,7 +208,9 @@
 </CD>
 <CD rank = "18">
 <ITEM>
+<TEST>
 <TITLE>Stop</TITLE>
+</TEST>
 <ARTIST>Sam Brown</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>A and M</COMPANY>
@@ -184,7 +220,9 @@
 </CD>
 <CD rank= "19">
 <ITEM>
+<TEST>
 <TITLE>Bridge of Spies</TITLE>
+</TEST>
 <ARTIST>T`Pau</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Siren</COMPANY>
@@ -194,7 +232,9 @@
 </CD>
 <CD rank = "20">
 <ITEM>
+<TEST>
 <TITLE>Private Dancer</TITLE>
+</TEST>
 <ARTIST>Tina Turner</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>Capitol</COMPANY>
@@ -204,7 +244,9 @@
 </CD>
 <CD rank = "21">
 <ITEM>
+<TEST>
 <TITLE>Midt om natten</TITLE>
+</TEST>
 <ARTIST>Kim Larsen</ARTIST>
 <COUNTRY>EU</COUNTRY>
 <COMPANY>Medley</COMPANY>
@@ -214,7 +256,9 @@
 </CD>
 <CD rank = "22">
 <ITEM>
+<TEST>
 <TITLE>Pavarotti Gala Concert</TITLE>
+</TEST>
 <ARTIST>Luciano Pavarotti</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>DECCA</COMPANY>
@@ -224,7 +268,9 @@
 </CD>
 <CD rank = "23">
 <ITEM>
+<TEST>
 <TITLE>The dock of the bay</TITLE>
+</TEST>
 <ARTIST>Otis Redding</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>Atlantic</COMPANY>
@@ -234,7 +280,9 @@
 </CD>
 <CD rank = "24">
 <ITEM>
+<TEST>
 <TITLE>Picture book</TITLE>
+</TEST>
 <ARTIST>Simply Red</ARTIST>
 <COUNTRY>EU</COUNTRY>
 <COMPANY>Elektra</COMPANY>
@@ -244,7 +292,9 @@
 </CD>
 <CD rank = "25">
 <ITEM>
+<TEST>
 <TITLE>Red</TITLE>
+</TEST>
 <ARTIST>The Communards</ARTIST>
 <COUNTRY>UK</COUNTRY>
 <COMPANY>London</COMPANY>
@@ -254,7 +304,9 @@
 </CD>
 <CD rank = "26">
 <ITEM>
+<TEST>
 <TITLE>Unchain my heart</TITLE>
+</TEST>
 <ARTIST>Joe Cocker</ARTIST>
 <COUNTRY>USA</COUNTRY>
 <COMPANY>EMI</COMPANY>
